@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1559756852 source:c:\users\user\documents\puzzle2\main.cpp
+	<iostream>
+	"puzzle.h"
+	<string>
+	<typeinfo>
+
+1559667486 c:\users\user\documents\puzzle2\puzzlestate.h
+	<iostream>
+	<vector>
+
+1559667486 c:\users\user\documents\puzzle2\wolfgoatcabbage.h
+	<iostream>
+
+1559667667 c:\users\user\documents\puzzle2\bagofpuzzlestates.h
+	"PuzzleState.h"
+
+1559667852 c:\users\user\documents\puzzle2\predict.h
+	"PuzzleState.h"
+
+1559668066 c:\users\user\documents\puzzle2\arraystack.h
+	"BagOfPuzzleStates.h"
+
+1559668215 c:\users\user\documents\puzzle2\linkedlistdict.h
+	"PreDict.h"
+
+1559673511 source:c:\users\user\documents\puzzle2\arraystack.cpp
+	"ArrayStack.h"
+	<cassert>
+	<iostream>
+
+1559674266 c:\users\user\documents\puzzle2\wolfgoatcabbage.cpp
+	<iostream>
+	<sstream>
+	"PuzzleState.h"
+	"WolfGoatCabbage.h"
+
+1559673764 c:\users\user\documents\puzzle2\linkedlistdict.cpp
+	"LinkedListDict.h"
+	<cassert>
+	<cstdlib>
+	<iostream>
+
+1559746264 c:\users\user\documents\puzzle2\puzzle.h
+	"header.h"
+	"family.h"
+	"wgc.h"
+
+1559649427 c:\users\user\documents\puzzle2\header.h
+	<iostream>
+	<stack>
+	<vector>
+	<array>
+	<iterator>
+
+1559733308 c:\users\user\documents\puzzle2\family.h
+
+1559745543 c:\users\user\documents\puzzle2\wgc.h
+	<iostream>
+	<sstream>
+	<cstring>
+	<cstdlib>
+	<unistd.h>
+	"PuzzleState.h"
+	"WolfGoatCabbage.h"
+	"BagOfPuzzleStates.h"
+	"PreDict.h"
+	"ArrayStack.h"
+	"LinkedListDict.h"
+	"WolfGoatCabbage.cpp"
+	"LinkedListDict.cpp"
+
